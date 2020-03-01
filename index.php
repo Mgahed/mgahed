@@ -1,7 +1,7 @@
 <!--<html>
     <head>
         <title>Domain Availability Checker</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"/>
         <link rel="icon" href="m.png">
     </head>
@@ -21,7 +21,7 @@
                 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
                 color: #333;
             }
-            
+
             h2 {
                 font-size: 26px;
                 text-align: center;
@@ -41,7 +41,7 @@
                 justify-content: center;
                 align-items: center;
             }
-            
+
             .btn-search {
                 cursor: pointer;
                 text-decoration: none !important;
@@ -55,11 +55,11 @@
             .searchbar {
                 height:50px;
                 width:80%;
-                
+
                 border: none;
                 font-size: 19px;
                 border-bottom: #ADD8E6 solid 3px;
-                
+
             }
         </style>
 
@@ -74,27 +74,27 @@
                     <button type="submit" id="btnSearch" class="btn-search"><i class="fa fa-search"></i></button>
                 </form>
             </div>
-            <?php
-                
-                error_reporting(0);
-                if(isset($_POST['domain'])){
-                    $domain = $_POST['domain'];
-                    if ( gethostbyname($domain) != $domain ) {
-                        echo "<h3 class='fail'>(" . $domain . ") Domain Already Registered!</h3>";
-                    }
-                    else {
-                        echo "<h3 class='success'>(" . $domain . ") domain is available.<br> you can buy it from here => <a href='https://www.godaddy.com/'>godaddy</a></h3>";
-                    }
-                }
-            ?>
+            <!-- <?php
+
+                // error_reporting(0);
+                // if(isset($_POST['domain'])){
+                //     $domain = $_POST['domain'];
+                //     if ( gethostbyname($domain) != $domain ) {
+                //         echo "<h3 class='fail'>(" . $domain . ") Domain Already Registered!</h3>";
+                //     }
+                //     else {
+                //         echo "<h3 class='success'>(" . $domain . ") domain is available.<br> you can buy it from here => <a href='https://www.godaddy.com/'>godaddy</a></h3>";
+                //     }
+                // }
+            ?> 
         </div>
 
         <div class="footer">
             <p>© abdelrhmanmgahed131@gmail.com</p>
         </div>
 
-        
-        
+
+
     </body>
 </html>-->
 
