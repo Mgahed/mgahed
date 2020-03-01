@@ -116,17 +116,58 @@
    color: white;
    text-align: center;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #8FBC8F;
+}
+
+.active {
+  background-color: #4CAF50;
+}
     </style>
   </head>
 
   <body>
+
+    <ul>
+      <li><a class="active" href="index.html">Home</a></li>
+      <li><a href="contact.html">Contact Me</a></li>
+      <li><a href="sys.html">Systems</a></li>
+      <li style="float: right;" ><a href="about.html">About</a></li>
+    </ul>
+
+
     <div class="container">
 
 
   <div class="jumbotron">
-    <h1>Welcome to Tic Tac Toe!</h1>
+    <h2>Welcome to Tic Tac Toe!</h2>
+    <h4>Have some fun in Mgahed website</h4>
 
-  <p><a id='b' class="btn btn-primary btn-lg" href="#" role="button">Restart!</a></p>
+  <p><a id='b' class="btn btn-primary btn-lg" href="#" role="button">Restart the game!</a></p>
 </div>
     <table align='center'>
       <tr>
