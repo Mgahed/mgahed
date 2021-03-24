@@ -13,6 +13,6 @@ Disallow: /maps/api/staticmap
 Disallow: /maps/api/streetview
 
 User-agent: Googlebot
-Disallow:
+Disallow: 
 
 sitemap: http://www.mgahed.me/sitemap.xml
