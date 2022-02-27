@@ -15,4 +15,4 @@ Disallow: /maps/api/streetview
 User-agent: Googlebot
 Disallow: 
 
-sitemap: http://www.mgahed.me/sitemap.xml
+sitemap: http://www.mgahed.com/sitemap.xml
