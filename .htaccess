@@ -1,1 +1,17 @@
 ErrorDocument 404/404.html
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+
+
+    RewriteEngine On
+
+    RewriteCond %{HTTP_HOST} ^www.mgahed.com$ [NC]
+    RewriteRule ^(.*)$ https://mgahed.com/$1 [R=301,L]
+
+
+    RewriteCond %{REQUEST_FILENAME} -d [OR]
+    RewriteCond %{REQUEST_FILENAME} -f
+    RewriteRule ^ ^$1 [N]
+</IfModule>
