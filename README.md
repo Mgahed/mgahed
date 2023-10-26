@@ -5,21 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgahed" alt="mgahed" /></a> </p>
 
-- 🔭 I’m currently working on [MrTechnawy Projects](https://business.mrtechnawy.com)
+- 🔭 I’m currently working with [Recapet](https://recapet.com)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [http://mgahed.github.io](http://mgahed.github.io)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://mgahed.github.io/mgahed/#portfolio)
 
-- 💬 Ask me about **Laravel, Nodejs**
+- 💬 Ask me about **Laravel, Nodejs, Jenkins**
 
-- 📫 How to reach me **mgahed@mrtechnawy.com**
+- 📫 How to reach me [abdelrhmanmgahed131@gmail.com](mailto:abdelrhmanmgahed131@gmail.com)
 
-- 📄 Know about my experiences [http://mgahed.github.io/cv.pdf](http://mgahed.github.io/cv.pdf)
+- 📄 Know about my experiences [https://mgahed.github.io/cv.pdf](https://mgahed.github.io/cv.pdf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[//]: # (<h3 align="left">Connect with me:</h3>)
+
+[//]: # (<p align="left">)
+
+[//]: # (</p>)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -43,8 +45,10 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+
+[//]: # (<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> )
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.jenkins.io/apple-touch-icon.png" alt="Jenkins" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgahed&show_icons=true&locale=en&layout=compact" alt="mgahed" /></p>
