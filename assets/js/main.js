@@ -191,3 +191,27 @@
   });
 
 })(jQuery);
+
+function calculateAge(birthdate) {
+  // Parse the birthdate string to a Date object
+  const birthdateDate = new Date(birthdate);
+
+  // Get the current date
+  const currentDate = new Date();
+
+  // Calculate the difference in milliseconds
+  const ageInMilliseconds = currentDate - birthdateDate;
+
+  // Convert the age from milliseconds to years
+  const ageInYears = ageInMilliseconds / (1000 * 60 * 60 * 24 * 365.25);
+
+  // Round the age to the nearest whole number
+  const roundedAge = Math.floor(ageInYears);
+
+  return roundedAge;
+}
+
+// Example usage:
+const birthdate = '1998-05-18'; // Format: YYYY-MM-DD
+const age = calculateAge(birthdate);
+$("#myAge").text(age + " years old");

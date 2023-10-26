@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [http://mgahed.com](http://mgahed.com)
+- 👨‍💻 All of my projects are available at [http://mgahed.github.io](http://mgahed.github.io)
 
 - 💬 Ask me about **Laravel, Nodejs**
 
 - 📫 How to reach me **mgahed@mrtechnawy.com**
 
-- 📄 Know about my experiences [http://mgahed.com/cv.pdf](http://mgahed.com/cv.pdf)
+- 📄 Know about my experiences [http://mgahed.github.io/cv.pdf](http://mgahed.github.io/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
