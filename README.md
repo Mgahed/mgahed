@@ -15,7 +15,7 @@
 
 - 📫 How to reach me [abdelrhmanmgahed131@gmail.com](mailto:abdelrhmanmgahed131@gmail.com)
 
-- 📄 Know about my experiences [https://mgahed.github.io/cv.pdf](https://mgahed.github.io/cv.pdf)
+- 📄 Know about my experiences [https://mgahed.github.io/mgahed/cv.pdf](https://mgahed.github.io/mgahed/cv.pdf)
 
 [//]: # (<h3 align="left">Connect with me:</h3>)
 
