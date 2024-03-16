@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available in my [Portfolio](https://mgahed.github.io/mgahed/#portfolio)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://mgahed.com/#portfolio)
 
 - 💬 Ask me about **Laravel, Nodejs, Jenkins**
 
-- 📫 How to reach me [abdelrhmanmgahed131@gmail.com](mailto:abdelrhmanmgahed131@gmail.com)
+- 📫 How to reach me [abdelrhman@mgahed.com](mailto:abdelrhman@mgahed.com)
 
-- 📄 Know about my experiences [https://mgahed.github.io/mgahed/cv.pdf](https://mgahed.github.io/mgahed/cv.pdf)
+- 📄 Know about my experiences [https://mgahed.com/cv.pdf](https://mgahed.com/cv.pdf)
 
 [//]: # (<h3 align="left">Connect with me:</h3>)
 
