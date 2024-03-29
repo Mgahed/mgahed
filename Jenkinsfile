@@ -5,7 +5,7 @@ pipeline {
     }
      options {
            buildDiscarder(logRotator(numToKeepStr: '10', daysToKeepStr: '10', artifactNumToKeepStr: '10', artifactDaysToKeepStr: '10'))
-           timeout(time: 100, unit: 'MINUTES')
+           timeout(time: 5, unit: 'MINUTES')
            disableConcurrentBuilds()
 
              }
@@ -16,14 +16,12 @@ pipeline {
             steps {
 
               script {
-             if (env.BRANCH_NAME == 'master') {
                 sh '''
                   ssh -tt root@127.0.0.1<<EOF
                   cd /var/www/mgahed
                   sudo git pull origin master
                   exit
                   EOF'''
-             }
             }
           }
         }
