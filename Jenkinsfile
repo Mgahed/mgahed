@@ -5,13 +5,17 @@ pipeline {
     }
      options {
            buildDiscarder(logRotator(numToKeepStr: '10', daysToKeepStr: '10', artifactNumToKeepStr: '10', artifactDaysToKeepStr: '10'))
-           timeout(time: 5, unit: 'MINUTES')
+           timeout(time: 100, unit: 'MINUTES')
            disableConcurrentBuilds()
 
              }
          stages {
 
           stage('deploy mgahed master'){
+
+             agent {
+              label 'master'
+                }
 
             steps {
 
