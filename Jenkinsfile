@@ -13,11 +13,10 @@ pipeline {
           stage('deploy mgahed master'){
             steps {
                 sh '''
-                  ssh -tt root@127.0.0.1<<EOF
                   cd /var/www/mgahed
                   sudo git pull origin master
                   exit
-                  EOF'''
+                  '''
             }
           }
         }
