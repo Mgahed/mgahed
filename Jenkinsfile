@@ -14,7 +14,7 @@ pipeline {
             steps {
                 sh '''
                   cd /var/www/mgahed
-                  sudo git pull origin master
+                  git pull origin master
                   exit
                   '''
             }
