@@ -16,9 +16,7 @@ pipeline {
                 sh '''
                   cd /var/www/mgahed
                   git config --global --add safe.directory /var/www/mgahed
-                  git add .
-                  git commit -m "jenkins"
-                  git pull --no-ff
+                  git pull origin master
                   exit
                   '''
             }
