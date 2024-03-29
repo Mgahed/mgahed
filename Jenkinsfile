@@ -13,14 +13,10 @@ pipeline {
 
           stage('deploy mgahed master'){
 
-              agent {
-              label 'master'
-                }
-
             steps {
 
               script {
-             if (env.BRANCH_NAME == 'develop' || env.BRANCH_NAME != 'develop') {
+             if (env.BRANCH_NAME == 'master') {
                 sh '''
                   ssh -tt root@127.0.0.1<<EOF
                   cd /var/www/mgahed
