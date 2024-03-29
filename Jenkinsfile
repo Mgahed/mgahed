@@ -14,6 +14,7 @@ pipeline {
             steps {
                 sh '''
                   cd /var/www/mgahed
+                  git config --global --add safe.directory /var/www/mgahed
                   git pull origin master
                   exit
                   '''
