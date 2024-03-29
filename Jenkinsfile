@@ -11,7 +11,6 @@ pipeline {
 
          stages {
           stage('deploy mgahed master'){
-
             steps {
                 sh '''
                   cd /var/www/mgahed
@@ -20,7 +19,6 @@ pipeline {
                   exit
                   '''
             }
-
           }
         }
     }
