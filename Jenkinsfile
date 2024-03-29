@@ -8,7 +8,7 @@ pipeline {
            timeout(time: 5, unit: 'MINUTES')
            disableConcurrentBuilds()
              }
-             
+
          stages {
           stage('deploy mgahed master'){
             steps {
@@ -22,4 +22,3 @@ pipeline {
           }
         }
     }
-}
