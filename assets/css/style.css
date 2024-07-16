@@ -443,7 +443,7 @@ section {
   position: relative;
 }
 
-.resume .resume-item h4 {
+.resume .resume-item h4, .resume-title-h4 {
   line-height: 18px;
   font-size: 18px;
   font-weight: 600;
