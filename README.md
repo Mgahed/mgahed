@@ -55,4 +55,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgahed&show_icons=true&locale=en" alt="mgahed" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mgahed&theme=default)
+<img src="https://streak-stats.demolab.com/?user=mgahed&theme=default" alt="Mgahed Streak">
+
+
+<div>
+    <a href="https://ko-fi.com/mgahed" target="_blank"><img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01c01ea9191809398c_support_me_on_kofi_blue.png" style="width: 250px;max-width: 100%;"></a>
+</div>
