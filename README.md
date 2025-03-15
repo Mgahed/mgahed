@@ -55,4 +55,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgahed&show_icons=true&locale=en" alt="mgahed" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=mgahed&theme=default" alt="mgahed" /></p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=mgahed&theme=default)
