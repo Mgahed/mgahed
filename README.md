@@ -55,7 +55,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgahed&show_icons=true&locale=en" alt="mgahed" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mgahed&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mgahed&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 
 <div>
