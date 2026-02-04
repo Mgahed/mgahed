@@ -37,10 +37,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mgahed&show_icons=true&locale=en" alt="Mgahed" /></p>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mgahed/contributions?format=svg&private=false)
 
 ![github contribution grid snake](https://raw.githubusercontent.com/mgahed/mgahed/output/github-contribution-grid-snake-dark.svg)
 
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mgahed/contributions?format=svg&private=false)
 
 <div>
     <a href="https://ko-fi.com/mgahed" target="_blank"><img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01c01ea9191809398c_support_me_on_kofi_blue.png" style="width: 250px;max-width: 100%;"></a>
