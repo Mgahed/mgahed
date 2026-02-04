@@ -2,7 +2,8 @@
 
 ### Senior Full-Stack Developer | Laravel Specialist
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mgahed&label=Profile views&color=0e75b6&style=flat" alt="Mgahed" /> </p>
+![profile views](https://komarev.com/ghpvc/?username=mgahed&label=Profile%20views&color=0e75b6&style=flat)
+![sss](https://img.shields.io/uptimerobot/ratio/m801844219-370cf62b02a2375a4a579d21)
 
 - 🔭 I'm currently working on **Building `mgahed`, a high-performance portfolio app, and exploring NativePHP for cross-platform desktop solutions.**
 
