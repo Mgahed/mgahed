@@ -39,7 +39,7 @@
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mgahed/contributions?format=svg&private=false)
 
-<img src="https://raw.githubusercontent.com/mgahed/mgahed/output/snake.svg" alt="Snake animation" />
+![github contribution grid snake](https://raw.githubusercontent.com/mgahed/mgahed/output/github-contribution-grid-snake-dark.svg)
 
 
 <div>
